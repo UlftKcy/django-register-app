@@ -49,7 +49,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com)
 $ git clone https://github.com/UlftKcy/django-register-app.git
 # Install dependencies
     $ python -m venv env
-    > env/Scripts/activate (for win OS)
+    $ env/Scripts/activate (for win OS)
     $ source env/bin/activate (for macOs/linux OS)
     $ pip install -r requirements.txt
 
