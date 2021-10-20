@@ -3,11 +3,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}" disabled>
+    <a href="https://github.com/UlftKcy/django-register-app">
       Demo
     </a>
      | 
-    <a href="https://{your-url-to-the-solution}" disabled>
+    <a href="https://github.com/UlftKcy/django-register-app">
       Project
     </a>
  
