@@ -62,5 +62,5 @@ $ python manage.py runserver
 
 ## Contact
 
-- GitHub [@UlftKcy](https://{github.com/UlftKcy})
-- Linkedin [@ülfet-kacay](https://{linkedin.com/ülfet-kacay})
+- GitHub [@UlftKcy](https://github.com/UlftKcy)
+- Linkedin [@ülfet-kacay](https://www.linkedin.com/in/%C3%BClfet-kacay/)
