@@ -1,0 +1,15 @@
+{% extends 'studentregister/base.html' %} {% block container %}
+
+<div class="container">
+  {% load crispy_forms_tags %}
+  <form action="" , method="POST">
+    {% csrf_token %}
+    <p>Are you sure delete {{student}}?</p>
+    <button class="btn btn-danger" type="submit">Yes</button>
+    <a type="button" class="btn btn-primary" href="{% url 'student_list'%}">
+      No</a
+    >
+  </form>
+</div>
+
+{% endblock container %}

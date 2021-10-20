@@ -1,0 +1,21 @@
+{% extends 'studentregister/base.html' %} {% block container %}
+
+<div class="container">
+  {% load crispy_forms_tags %}
+  <form action="" method="POST" enctype="multipart/form-data">
+    {% csrf_token %} {{form | crispy}}
+    <div class="d-grid gap-2 col-6 mx-auto mt-3">
+      <button type="submit" class="btn btn-success" type="button">
+        Submit
+      </button>
+      <a
+        class="btn btn-secondary"
+        type="button"
+        href="{% url 'student_list' %}"
+      >
+        Back to list
+      </a>
+    </div>
+  </form>
+</div>
+{% endblock container %}
