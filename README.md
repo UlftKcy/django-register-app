@@ -29,7 +29,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![registerdjango](https://user-images.githubusercontent.com/80036968/138127638-fc4c2be0-ff4b-424a-b12d-c53d97ba9bfd.gif)
 
 ### Built With
 
